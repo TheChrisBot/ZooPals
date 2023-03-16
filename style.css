@@ -1,0 +1,38 @@
+/* Background and font info */
+html {
+  background-color: lightgreen;
+}
+body {
+  width: 1080px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 100px solid rgb(25, 177, 144);
+  font-size: 25px;
+  font-family: Kanit;
+}
+/* Header color and centering */
+h1 {
+  margin: auto;
+  padding: 20px 0;
+  color: rgb(0, 0, 0);
+  text-shadow: 3px 3px 3px;
+  text-align: center;
+}
+/* The rest are self explanatory right? */
+li {
+  font-size: 22px;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+img {
+  display: flexbox;
+  margin: 0 auto;
+  width: 1000px;
+}
